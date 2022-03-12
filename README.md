@@ -1,4 +1,4 @@
-# esx_transistep  WORKING ON V2 !
+# esx_transistep NOT MAINTAINED
 
 # EN / FR
 If you want to improve this script, feel free to send an issue with your idea and the enhancement tag.
